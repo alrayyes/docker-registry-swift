@@ -5,8 +5,7 @@ Docker registry with built in Swift support
 
 The built image is available at https://registry.hub.docker.com/u/andthensome/registry-swift/
 
-The image is based on the official registry image, but with added
-support for storing images on Swift.
+The image is based on the official registry image, but with added support for storing images on Swift.
 
 Run a docker registry backed by a Swift datastore (e.g. on Rackspace):
 
